@@ -10,13 +10,8 @@ function cm(inches){ conv1 = inches / (2.54);
 function inches(cm){ conv1 = cm * (2.54);
   return conv1;
 }
-hshthrthrhtrshstrhstrhs
-seh
-es
-seth
-th
-st
-ht
-h
 
-hsethtesshsethshsthsthsthseth
+gresgsesdfg srg
+ vsvdvdhvfhv
+ vhhvfhfghvgfvh
+ 
