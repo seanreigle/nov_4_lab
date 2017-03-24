@@ -11,10 +11,8 @@ function inches(cm){ conv1 = cm * (2.54);
   return conv1;
 }
 
-
 var feet;
 
 function km(kilometers) { conv2 = km * (2.54);
   return conv2;
 }
-
