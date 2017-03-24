@@ -10,7 +10,7 @@ h1 {
 
 .noaa {
   position: absolute;
-  top: 8px;
+  top: 50px;
 }
 
 border {
@@ -34,7 +34,7 @@ border {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 15px;
-    margin-left:10px;
+    margin-left:5px;
 }
 
 .topnav a:hover {
@@ -45,4 +45,14 @@ border {
 .topnav a.active {
     background-color: #000;
     color: white;
+}
+
+html {
+  background-color: #add8e6;
+}
+
+body {
+  margin: 20px;
+  background-color: white;
+  height: 500px;
 }
