@@ -13,6 +13,12 @@ h1 {
   top: 20px;
 }
 
+.noa {
+  position: absolute;
+  top: 20px;
+  margin-left:893px;
+}
+
 border {
   color: white;
 }
