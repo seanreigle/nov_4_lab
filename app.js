@@ -16,9 +16,3 @@ var feet;
 function km(kilometers) { conv2 = km * (2.54);
   return conv2;
 }
-
-var crap;
-
-function crap1(km) { conv3 = km * (2.54);
-  return conv3;
-}
